@@ -1,0 +1,26 @@
+body {background-color: #556270;}
+
+.banner {
+    height: 100px;
+    background-color: #4ECDC4;
+}
+
+.article {
+    min-height: 500px;
+    background-color: #4ECDC4;
+}
+
+.sidebar {
+    min-height: 200px;
+    background-color: #FF6B6B;
+}
+
+.box {
+    height: 150px;
+    background-color: #C7F464;
+    border: 5px solid black;
+}
+
+h1 {
+    text-align: center;
+}
